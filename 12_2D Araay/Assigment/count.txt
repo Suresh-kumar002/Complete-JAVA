@@ -1,0 +1,19 @@
+🔄 Outer Loop: i = 0 (First row)
+
+j = 0: arr[0][0] = 4 → not 8
+
+j = 1: arr[0][1] = 7 → not 8
+
+j = 2: arr[0][2] = 8 → ✅ match → count = 1
+
+🔄 Outer Loop: i = 1 (Second row)
+
+j = 0: arr[1][0] = 8 → ✅ match → count = 2
+
+j = 1: arr[1][1] = 8 → ✅ match → count = 3
+
+j = 2: arr[1][2] = 7 → not 8
+
+✅ Final Value of count: 3
+🖨️ Output:
+count of 8 is 3

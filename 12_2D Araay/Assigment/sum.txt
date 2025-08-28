@@ -1,0 +1,10 @@
+Dry run of loop:
+
+j = 0: sum = 0 + 8 = 8
+
+j = 1: sum = 8 + 8 = 16
+
+j = 2: sum = 16 + 7 = 23
+
+✅ Final Output:
+sum is : 23
